@@ -10,9 +10,10 @@ Computer science and business student in Zurich. I like building products where 
 
 ## What I'm interested in
 
-- Product design and the details that make software feel considered
-- Native Mac apps and the web
-- AI agents: what they can safely be trusted to do, and how to show a person what they did
+- Software that feels polished, down to the small details
+- Product design and UI/UX: making things clear, calm and pleasant to use
+- Apps that are actually useful, not just impressive demos
+- Using AI to make software smarter without making it harder to trust
 
 ## Get in touch
 
