@@ -13,3 +13,7 @@ Computer science and business student in Zurich. I like building products where 
 - Product design and the details that make software feel considered
 - Native Mac apps and the web
 - AI agents: what they can safely be trusted to do, and how to show a person what they did
+
+## Get in touch
+
+The best way to reach me is email: [dmitrii@russu.net](mailto:dmitrii@russu.net)
